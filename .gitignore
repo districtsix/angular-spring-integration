@@ -239,3 +239,6 @@ static/
 
 # Node installation folder
 node/
+
+# Angular dist folder
+dist/angular/
